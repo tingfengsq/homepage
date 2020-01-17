@@ -1,6 +1,6 @@
 ## 版权说明
 
-此为 [TingFeng](http://www.tingfengcloud.com/) 的二次开发版本，已获作者授权。
+
 
 版权归原作者 [Fly](https://fly.moe/) 所有，拒绝一切未经授权的使用。
 
